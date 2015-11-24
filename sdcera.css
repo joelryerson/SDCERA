@@ -1,0 +1,116 @@
+  /*div {
+    border: thick solid black;
+  }*/
+
+.navbar-default{
+  background: rgba(255, 255, 255, 0.9);
+  border-bottom: thick solid rgba(70, 130, 180, 0.9);
+}
+
+
+.collapse {
+  margin-top: 49px;
+}
+
+li {
+  font-size: 18px;
+
+}
+span.glyphicon {
+    vertical-align: middle;
+    margin-top: 14px;
+    margin-right: 40px;
+}
+
+.photo {
+  width: 100%;
+  margin-bottom: 20px;
+  z-index: -1;
+}
+
+
+.strength_service_commitment {
+
+  text-align: center;
+  margin-top: -720px;
+  font-family: 'Hoefler Text', serif;
+  letter-spacing: .3em;
+  text-transform: uppercase;
+  color: #4682B4;
+  font-size: 45px;
+}
+
+tan {
+  color: #D2B48C;
+}
+
+.center{
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content {
+  font-size: 18px;
+  font-family: 'Hoefler Text', serif;
+}
+
+.header {
+  font-family: 'Hoefler Text', serif;
+  letter-spacing: .3em;
+  text-transform: uppercase;
+  color: #4682B4;
+  font-size: 40px;
+}
+
+.sub_header {
+  font-family: 'Hoefler Text', serif;
+  letter-spacing: .3em;
+  text-transform: uppercase;
+  color: #4682B4;
+  font-size: 25px;
+}
+
+.spaced-row {
+  margin-top: 65px;
+}
+
+#footer {
+  font-size: 10px;
+}
+
+.img_crop {
+  object-fit: cover;
+  width: 200px;
+  height: 200px;
+}
+
+.active_members {
+  margin-top: 104px;
+  background: rgba(70, 130, 180, 0.9);
+  font-family: 'Hoefler Text', serif;
+  letter-spacing: .3em;
+  text-transform: uppercase;
+  color: white;
+  font-size: 22px;
+  z-index: 1;
+  height: 28px;
+}
+
+.small {
+  font-size: 12px;
+}
+
+.border_color {
+  border: 1px solid black;
+  padding-top: 8px;
+}
+
+li {
+  font-size: 14px;
+}
+
+.sidebar {
+  float: right;
+  
+}
